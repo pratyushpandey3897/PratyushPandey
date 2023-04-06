@@ -7,13 +7,13 @@ I am an avid learner with a passion for technology, particularly in Software Dev
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-- 🌱 Always curious and eager to learn.
-- 🚀 &nbsp; Learning skills in building scalable, secure and dependable software systems and applications.
-- 🎓 &nbsp; Pursuing a Masters Degree in Computer Science and Engineering at Arizona State University.
-- 💼 &nbsp; Experienced in working with global teams at SAP and Samsung Research for over three years.
+- 🦾 &nbsp;I am always curious and eager to learn.
+- 🚀 &nbsp; Currently learning skills in building scalable, secure and dependable software systems and applications.
+- 🎓 &nbsp; Pursuing a Masters Degree in Computer Science and Engineering at Arizona State University, with  focus on Distributed, Dependable and Secure Systems.
+- 💼 &nbsp; Experienced in working with global teams at SAP and Samsung Research for over 3 years.
 - 😎 &nbsp; Skilled in web development technologies and picking up skills in Cloud Computing (AWS, Openstack) and Web3 development
-- 📫  Reach me out on ppande28@asu.edu (mailto:ppande28@asu.edu)
-- ✍️ &nbsp;  When I am not infront of the computer, I indulge in music as a proficient player of guitar, drums, and piano.
+- 📫 &nbsp;Reach me out on ppande28@asu.edu (mailto:ppande28@asu.edu)
+- 🎸 &nbsp;  When I am not infront of the computer, I indulge in music as a proficient player of guitar, drums, and piano.
 
 
 
@@ -52,13 +52,19 @@ _Relevant Coursework: Cloud Computing, Software Security, Information Assurance,
   ![sapbtp](https://img.shields.io/badge/-SAP%20BTP-333333?style=flat&logo=sap&logoColor=0FAAFF)
   ![springboot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
   ![jquery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
+  ![Fiori](https://img.shields.io/badge/-Fiori-333333?style=flat&logo=sap&logoColor=0FAAFF)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
   ![postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
-  ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
+  ![S/4 HANA](https://img.shields.io/badge/-S%2F4%20HANA-333333?style=flat&logo=sap&logoColor=0FAAFF)
+
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+  ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
+  ![OpenStack](https://img.shields.io/badge/-OpenStack-333333?style=flat&logo=openstack&logoColor=ED1944)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana&logoColor=005571)
   ![grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana&logoColor=F46800)
@@ -101,7 +107,7 @@ service efficiency.
 - Resolved front-end and back-end bugs in in minimum time and reduced defect fixing turn-around time by 93%
 - Enhanced the testing quality and hit 75% coverage by including unit and integration testing through JUnit and Selenium
 
- 👇Here ae my credentials?
+🤔 My credentials?
 
 - 👔 [LinkedIn] : https://www.linkedin.com/in/pratyush-pandey-prat/
 - 💻 [GitHub]: https://github.com/pratyushpandey3897
