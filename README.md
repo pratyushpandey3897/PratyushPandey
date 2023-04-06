@@ -107,10 +107,12 @@ service efficiency.
 - Resolved front-end and back-end bugs in in minimum time and reduced defect fixing turn-around time by 93%
 - Enhanced the testing quality and hit 75% coverage by including unit and integration testing through JUnit and Selenium
 
-🤔 My credentials?
+Checkout my profile!
 
-- 👔 [LinkedIn] : https://www.linkedin.com/in/pratyush-pandey-prat/
-- 💻 [GitHub]: https://github.com/pratyushpandey3897
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/pratyush-pandey-prat/)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/pratyushpandey3897)
+
  
 <!-- :office: How about my portfolio? -->
 
