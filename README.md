@@ -114,8 +114,7 @@ Checkout my profile!
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/pratyushpandey3897)
 
  
-<!-- :office: How about my portfolio? -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratyushpandey3897&label=Profile%20views&color=0e75b6&style=flat" alt="prasidh-agg" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushpandey3897&show_icons=true&locale=en" alt="pratyushpandey3897" /></p>
 
-
-<!-- - https://pratyushpandey.netlify.app/ -->
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushpandey3897&" alt="pratyushpandey3897" /></p>
