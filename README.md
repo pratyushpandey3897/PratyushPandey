@@ -28,7 +28,7 @@ I am an avid learner with a passion for technology, particularly in Software Dev
 
 **Master of Science in Computer Science and Engineering** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Arizona State University, Tempe, AZ GPA : 4.0/4.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-_Relevant Coursework: Cloud Computing, Software Security, Information Assurance, Artificial Nerual Computation, Foundations of Algorithm_<br>
+_Relevant Coursework: Cloud Computing, Distributed Database Systems, Software Security, Information Assurance, Artificial Nerual Computation, Foundations of Algorithm_<br>
 
 **Bachelor of Technology in Electrical and Electronics Engineering** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Vellore Institute of Technology, Vellore, India GPA : 8.64/10.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -80,32 +80,38 @@ _Relevant Coursework: Cloud Computing, Software Security, Information Assurance,
 
 💼 Let's delve into my professional background and industry expertise.
 
+**Rocket Mortgage, Detroit, Michigan** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Software Engineering Intern_         (May'22 - Aug'22)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- Built a tool for automating release-notes generation including dependencies and rollback links, reducing manual effort by 90%.
+- Incorporated back-end services using NodeJs and Nest.JS and integrated MS Teams webhooks, streamlining the process by 100%
+- Leveraged AWS EKS clusters, deployed Angular application on AWS Cloudfront, and built a CircleCI pipeline, ensuring scalability and accelerating automation by 70%
+- Received the Best Project Award for exceptional software design, usability, and scalability in all internship projects
 
 **Blockchain Research Lab, Arizona State University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Graduate Services Assistant_         (Nov'22 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- Developed decentralized Data Exchange platform based on Ocean protocol at the Blockchain Research Lab
-- Developed NodeJS/ReactJS marketplace app for publishing/buying/computing data and algorithmsTesla
-service efficiency.
+- Built a decentralized data exchange marketplace application to purchase, sell, and compute Data and Algorithm NFT
+- Developed NodeJS/ReactJS marketplace app for publishing/buying/computing data and algorithms
+- Devised a framework for Tokenization of digital assets for ethical and unbiased model training in AI based applications
 - Technology-Ocean.js,GraphQL,Docker,Aquarius,Ethereum,React.js,JavaScript, NodeJS<br>
 
 **SAP Labs, India** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Associate Developer_             (Sep'2020 - Jul'22)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 ![sap](https://img.shields.io/badge/-SAP-333333?style=flat&logo=sap&logoColor=0FAAFF)
-- Developed resilient SaaS cloud-native applications for SAP Intelligent Service Delivery Hub
-- Leveraged Java and NodeJS in the backend to build optimized microservices, REST APIs, and data models
-- Re-architected a module to enable operations on multiple customer tenants and reduced execution time by roughly 90%
-- Developed APIs to consume User details micro-service for Role Base Access Control in the application
-- Spearheaded unit testing tasks, increased code coverage to 95% and achieved daily delivery in the cloud
-- Coordinated with Developers and Architects to migrate the monolithic application to a micro-services based architecture
-- Redesigned Rule Execution module using SAPUI5 in the frontend, improving usability and functionality by 60%
+- Developed resilient cloud-native applications using Java, NodeJS and SAP Open UI5, showcasing expert problem-solving skills
+- Employed strong Spring Boot, RESTful APIs and object-oriented design principles to build microservices and endpoints
+- Re-architected a module to enable operations on multiple customer tenants, slashing feature execution time by 70%
+- Developed reusable APIs and libraries to maintain hierarchical entities and versions, used by 80% of application features
+- Spearheaded unit testing tasks, increased code coverage to 95% and achieved daily delivery goals as part of CI/CD approach
+- Redesigned Rule Execution module and schema design to increase usability and functionality by 60%
+- Mentored team members and conducted knowledge-transfer sessions for JUnit, QUnit and NodeJS.
 
 **Samsung Research, India** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Assistant Engineer_             (Aug'19 - Sep'20)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 ![samsung](https://img.shields.io/badge/-Samsung%20Research-333333?style=flat&logo=samsung&logoColor=1428a0)
 - Developed Network Management System application, using Java, JavaScript, MySQL for managing LTE network
-- Collaborated with cross-functional teams to gather requirements and develop the features using Java Spring framework
-- Resolved front-end and back-end bugs in in minimum time and reduced defect fixing turn-around time by 93%
-- Enhanced the testing quality and hit 75% coverage by including unit and integration testing through JUnit and Selenium
+- Collaborated with cross-functional teams to gather requirements and reduced defect fixing turn-around time by 93%
+- Led the JUnit and Selenium testing activities and achieved 75% code coverage for each file
+- Enhanced the LTE Performance module used by leading 20 Telecom operators worldwide, slashing bug counts by 60%
 
 Checkout my profile!
 
