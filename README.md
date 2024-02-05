@@ -1,7 +1,7 @@
 
 <h2> Hey 👋, I'm Pratyush Pandey.</h2>
 
-<h3> I am actively seeking summer internship/co-op opportunities in SDE/DevOps/Cybersecurity roles starting May 2023. </h3>
+<h3> I am actively seeking full-time opportunities in SDE/DevOps/Cybersecurity roles starting May 2024. </h3>
 
 I am an avid learner with a passion for technology, particularly in Software Development, DevOps, Cloud Computing, Blockchain, and Machine Learning. My portfolio showcases my commitment to continuous skill development and exploration in these dynamic fields.  
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -9,8 +9,8 @@ I am an avid learner with a passion for technology, particularly in Software Dev
 
 - 🦾 &nbsp;I am always curious and eager to learn.
 - 🚀 &nbsp; Currently learning skills in building scalable, secure and dependable software systems and applications.
-- 🎓 &nbsp; Pursuing a Masters Degree in Computer Science and Engineering at Arizona State University, with  focus on Distributed, Dependable and Secure Systems.
-- 💼 &nbsp; Experienced in working with global teams at SAP and Samsung Research for over 3 years.
+- 🎓 &nbsp; Pursuing a Masters Degree in Computer Engineering (Computer Systems) at Arizona State University, with a focus on Distributed, Dependable and Secure Systems.
+- 💼 &nbsp; Experienced in working with global software development teams at SAP and Samsung Research for over 3 years.
 - 😎 &nbsp; Skilled in web development technologies and picking up skills in Cloud Computing (AWS, Openstack) and Web3 development
 - 📫 &nbsp;Reach me out on ppande28@asu.edu (mailto:ppande28@asu.edu)
 - 🎸 &nbsp;  When I am not infront of the computer, I indulge in music as a proficient player of guitar, drums, and piano.
@@ -20,7 +20,7 @@ I am an avid learner with a passion for technology, particularly in Software Dev
 🧠 This is me
 
 - Passionate and tech-savvy individual with practical expertise in developing robust code and implementing rigorous testing procedures.
-- Experienced in Java, Python, SQL, NodeJS, SpringBoot, ReactJs, AWS technologies and Unit Testing with JUnit and QUnit.
+- Experienced in Java, Python, SQL, NodeJS, SpringBoot, ReactJs, AngularJS, SQL, NoSQL, Cloud Platform technologies and Unit Testing with JUnit and QUnit.
 - Skilled in leading and communicating effectively with cross-functional teams to achieve goals and meet critical deadlines in Agile environments.
 
 
@@ -28,7 +28,7 @@ I am an avid learner with a passion for technology, particularly in Software Dev
 
 **Master of Science in Computer Science and Engineering** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Arizona State University, Tempe, AZ GPA : 4.0/4.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-_Relevant Coursework: Cloud Computing, Distributed Database Systems, Software Security, Information Assurance, Artificial Nerual Computation, Foundations of Algorithm_<br>
+_Relevant Coursework: Cloud Computing, Distributed Database Systems, Software Security, Information Assurance, Artificial Nerual Computation, Software Verificiation, Validation, and Testing, Foundations of Algorithm_<br>
 
 **Bachelor of Technology in Electrical and Electronics Engineering** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Vellore Institute of Technology, Vellore, India GPA : 8.64/10.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -58,6 +58,7 @@ _Relevant Coursework: Cloud Computing, Distributed Database Systems, Software Se
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
   ![postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+  ![MongoDB](https://img.shields.io/badge/Mongodb-mongodb-blue?logo=mongodb)
   ![S/4 HANA](https://img.shields.io/badge/-S%2F4%20HANA-333333?style=flat&logo=sap&logoColor=0FAAFF)
 
 - ⚙️ &nbsp;
@@ -115,7 +116,7 @@ _Relevant Coursework: Cloud Computing, Distributed Database Systems, Software Se
 
 Checkout my profile!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/pratyush-pandey-prat/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pratyush-pandey-prat/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/pratyushpandey3897)
 
